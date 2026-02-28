@@ -326,6 +326,28 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
+---
+
+## Deployment (Internship Task)
+
+This repository was successfully cloned and deployed on a cloud server as part of an internship assignment.
+
+### Cloud Deployment Details
+- Platform: Render
+- Runtime Environment: Python 3.10
+- Repository cloned and configured from source
+- Dependencies installed using pip within a virtual environment
+- Backend service deployed and verified through a public endpoint
+
+### Live Deployment URL
+https://openoa-nzaw.onrender.com
+
+### Frontend & Backend Note
+The OpenOA repository primarily provides a Python-based analytical backend and does not include a standalone frontend user interface.  
+A minimal web endpoint was implemented to confirm successful backend deployment and runtime execution.
+
+---
+
 ## References
 
 [^1]: Perr-Sauer, J., and Optis, M., Fields, J.M., Bodini, N., Lee, J.C.Y., Todd, A., Simley, E., Hammond, R., Phillips, C., Lunacek, M., Kemper, T., Williams, L., Craig, A., Agarwal, N., Sheng, S., and Meissner, J. OpenOA: An Open-Source Codebase For Operational Analysis of Wind Farms. *Journal of Open Source Software*, 6(58):2171 (2022). https://doi.org/10.21105/joss.02171.
